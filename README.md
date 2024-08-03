@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brandon Rogers</h1>
 <h3 align="center">Founder, Creative, & Aspiring Software & Robotics Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brogers111" alt="brogers111" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/brandon11rogers" target="blank"><img src="https://img.shields.io/twitter/follow/brandon11rogers?logo=twitter&style=for-the-badge" alt="brandon11rogers" /></a> </p>
 
 <h2>About Me</h2>
