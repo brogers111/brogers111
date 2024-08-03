@@ -5,7 +5,29 @@
 
 <p align="left"> <a href="https://twitter.com/brandon11rogers" target="blank"><img src="https://img.shields.io/twitter/follow/brandon11rogers?logo=twitter&style=for-the-badge" alt="brandon11rogers" /></a> </p>
 
-- 📫 How to reach me **ber64111@gmail.com**
+<h2>About Me</h2>
+<p>Currently an SEO Specialist at <a href="https://www.amsive.com/">Amsive.</a></p>
+
+<p>Built and sold <a href="https://lvlssportswear.com/">LVLS Sportswear</a> in 4 years. Currently enrolled in TripleTen's Software Engineering Bootcamp, MSU Denver's Robotics program, and building <a href="https://myinscription.ai">Inscription</a> in my spare time.</p>
+
+<h3>Top Reads:</h3>
+<ul>
+  <li>Start With Why by Simon Sinek</li>
+  <li>Linchpin by Seth Godin</li>
+  <li>The Paradox of Choice by Barry Schwartz</li>
+  <li>Against The Odds by James Dyson</li>
+  <li>The Innovators by Walter Isaacson</li>
+</ul>
+
+<h3>Top Listens:</h3>
+<ul>
+  <li>Founders with David Senra</li>
+  <li>Acquired with Ben Gilbert & David Rosenthal</li>
+  <li>My First Million with Shaan Puri & Sam Parr</li>
+  <li>How I Built This with Guy Raz</li>
+</ul>
+
+<p>Reach out if our passions align and you want to chat: <strong>ber64111@gmail.com</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
