@@ -4,9 +4,9 @@
 <p align="left"> <a href="https://twitter.com/brandon11rogers" target="blank"><img src="https://img.shields.io/twitter/follow/brandon11rogers?logo=twitter&style=for-the-badge" alt="brandon11rogers" /></a> </p>
 
 <h2>About Me</h2>
-<p>Currently an SEO Specialist at <a href="https://www.amsive.com/">Amsive.</a></p>
+<p>I'm currently an SEO Specialist at <a href="https://www.amsive.com/">Amsive, enrolled in TripleTen's Software Engineering Bootcamp, MSU Denver's Robotics program, and building <a href="https://myinscription.ai">Inscription</a> in my spare time.</a></p>
 
-<p>Built and sold <a href="https://lvlssportswear.com/">LVLS Sportswear</a> in 4 years. Currently enrolled in TripleTen's Software Engineering Bootcamp, MSU Denver's Robotics program, and building <a href="https://myinscription.ai">Inscription</a> in my spare time.</p>
+<p>I've also built and sold <a href="https://lvlssportswear.com/">LVLS Sportswear</a> from 2019 - 2024.</p>
 
 <h3>Top Reads:</h3>
 <ul>
