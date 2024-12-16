@@ -6,7 +6,7 @@
 <h2>About Me</h2>
 <p>I'm currently an SEO Specialist at <a href="https://www.amsive.com/">Amsive</a>, enrolled in TripleTen's Software Engineering Bootcamp, MSU Denver's Robotics program, and building <a href="https://myinscription.ai">Inscription</a> in my spare time.</p>
 
-<p>I've also built and sold <a href="https://lvlssportswear.com/">LVLS Sportswear</a> from 2019 - 2024.</p>
+<p>I also bootstrapped and sold <a href="https://lvlssportswear.com/">LVLS Sportswear</a> between 2019 - 2024.</p>
 
 <h3>Top Reads:</h3>
 <ul>
