@@ -1,29 +1,14 @@
 <h1 align="center">Hi 👋, I'm Brandon Rogers</h1>
-<h3 align="center">Founder, Creative, and Aspiring Software & Robotics Engineer</h3>
+<h3 align="center">SEO Specialist, Entrepreneur, and Aspiring Software & Robotics Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/brandon11rogers" target="blank"><img src="https://img.shields.io/twitter/follow/brandon11rogers?logo=twitter&style=for-the-badge" alt="brandon11rogers" /></a> </p>
 
 <h2>About Me</h2>
-<p>I'm currently an SEO Specialist at <a href="https://www.amsive.com/">Amsive</a>, enrolled in TripleTen's Software Engineering Bootcamp, MSU Denver's Robotics program, and building <a href="https://myinscription.ai">Inscription</a> in my spare time.</p>
+<p>I'm currently an SEO Specialist at <a href="https://www.amsive.com/">Amsive</a>, a recent graduate of TripleTen's Software Engineering Bootcamp, an engineering student pursuing a BS in Robotics from MSU Denver, and a co-founder of <a href="https://myinscription.ai">Inscription</a>, an application for entrepreneurs to seamlessly document their journey while being provided with actionable insights and resources along the way.</p>
 
-<p>I also bootstrapped and sold <a href="https://lvlssportswear.com/">LVLS Sportswear</a> between 2019 - 2024.</p>
+<p>Over the past five years, I've been fortunate to accumulate a diverse technical and business background in software engineering, marketing, search engine optimization, entrepreneurship, graphic design, international business, and coaching.</p>
 
-<h3>Top Reads:</h3>
-<ul>
-  <li>Start With Why by Simon Sinek</li>
-  <li>Linchpin by Seth Godin</li>
-  <li>The Paradox of Choice by Barry Schwartz</li>
-  <li>Against The Odds by James Dyson</li>
-  <li>The Innovators by Walter Isaacson</li>
-</ul>
-
-<h3>Top Listens:</h3>
-<ul>
-  <li>Founders with David Senra</li>
-  <li>Acquired with Ben Gilbert & David Rosenthal</li>
-  <li>My First Million with Shaan Puri & Sam Parr</li>
-  <li>How I Built This with Guy Raz</li>
-</ul>
+<p>I also bootstrapped, scaled, and sold <a href="https://lvlssportswear.com/">LVLS Sportswear</a> between 2019 - 2024.</p>
 
 <p>Reach out if our passions align and you want to chat: <strong>ber64111@gmail.com</strong></p>
 
