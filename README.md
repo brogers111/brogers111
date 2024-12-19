@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/brandon11rogers" target="blank"><img src="https://img.shields.io/twitter/follow/brandon11rogers?logo=twitter&style=for-the-badge" alt="brandon11rogers" /></a> </p>
 
 <h2>About Me</h2>
-<p>I'm currently an SEO Specialist at <a href="https://www.amsive.com/">Amsive</a>, a recent graduate of TripleTen's Software Engineering Bootcamp, an engineering student pursuing a BS in Robotics from MSU Denver, and a co-founder of <a href="https://myinscription.ai">Inscription</a>, an application for entrepreneurs to seamlessly document their journey while being provided with actionable insights and resources along the way.</p>
+<p>I'm currently an SEO Specialist at <a href="https://www.amsive.com/">Amsive</a>, a recent graduate of TripleTen's Software Engineering Bootcamp, an engineering student pursuing a BS in Robotics from MSU Denver, and co-founder of <a href="https://myinscription.ai">Inscription</a>, an application for entrepreneurs to seamlessly document their journey while being provided with actionable insights and resources along the way.</p>
 
 <p>Over the past five years, I've been fortunate to accumulate a diverse technical and business background in software engineering, marketing, search engine optimization, entrepreneurship, graphic design, international business, and coaching.</p>
 
