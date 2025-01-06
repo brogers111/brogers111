@@ -8,7 +8,7 @@
 
 <p>Over the past five years, I've been fortunate to accumulate a diverse technical and business background in software engineering, marketing, search engine optimization, entrepreneurship, graphic design, international business, and coaching.</p>
 
-<p>I also bootstrapped, scaled, and sold <a href="https://lvlssportswear.com/">LVLS Sportswear</a> between 2019 - 2024.</p>
+<p>I have also received a BA with a concentration in marketing from Marymount University in 2019 and began bootstrapping <a href="https://lvlssportswear.com/">LVLS Sportswear</a> starting that same year, securing a patent and a successful exit in 2024.</p>
 
 <p>Reach out if our passions align and you want to chat: <strong>ber64111@gmail.com</strong></p>
 
