@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brandon Rogers</h1>
-<h3 align="center">Full-Stack Developer | SEO Specialist | Building apps & solving complex problems with code & creativity</h3>
 
-<p align="left"> <a href="https://twitter.com/brandon11rogers" target="blank"><img src="https://img.shields.io/twitter/follow/brandon11rogers?logo=twitter&style=for-the-badge" alt="brandon11rogers" /></a> </p>
+<p align="center"> <a href="https://twitter.com/brandon11rogers" target="blank"><img src="https://img.shields.io/twitter/follow/brandon11rogers?logo=twitter&style=for-the-badge" alt="brandon11rogers" /></a> </p>
+
+<h3 align="center">Full-Stack Developer | SEO Specialist | Building apps & solving complex problems with code & creativity</h3>
 
 <h2>About Me</h2>
 <p>I'm currently an SEO Specialist at <a href="https://www.amsive.com/">Amsive</a>, a recent graduate of TripleTen's Software Engineering Bootcamp, an engineering student pursuing a BS in Robotics from MSU Denver, and co-founder of <a href="https://myinscription.ai">Inscription</a>, an application for entrepreneurs to seamlessly document their journey while being provided with actionable insights and resources along the way.</p>
