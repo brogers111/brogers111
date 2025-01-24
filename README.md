@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon Rogers</h1>
-<h3 align="center">SEO Specialist, Entrepreneur, and Aspiring Software & Robotics Engineer</h3>
+<h3 align="center">Full-Stack Developer | SEO Specialist | Building apps & solving complex problems with code & creativity</h3>
 
 <p align="left"> <a href="https://twitter.com/brandon11rogers" target="blank"><img src="https://img.shields.io/twitter/follow/brandon11rogers?logo=twitter&style=for-the-badge" alt="brandon11rogers" /></a> </p>
 
