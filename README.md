@@ -2,7 +2,8 @@
 
 <p align="center"> <a href="https://twitter.com/brandon11rogers" target="blank"><img src="https://img.shields.io/twitter/follow/brandon11rogers?logo=twitter&style=for-the-badge" alt="brandon11rogers" /></a> </p>
 
-<h3 align="center">Full-Stack Developer | SEO Specialist | Building Apps & Solving Complex Problems With Code & Creativity</h3>
+<h3 align="center">Full-Stack Developer | SEO Specialist</h3>
+<h3 align="center"></h3>Building Apps & Solving Complex Problems With Code & Creativity</h3>
 
 <h2>About Me</h2>
 <p>I’m a full-stack developer and SEO specialist with 4 years of experience, a bachelor's degree in marketing, and a passion for creating impactful web applications and brands. I’m currently pursuing a BS in Robotics at MSU Denver, expanding my expertise into advanced manufacturing and automation.</p>
