@@ -12,7 +12,7 @@
 
 <p>Previously, I bootstrapped <a href="https://lvlssportswear.com/">LVLS Sportswear</a>, a patented and innovative sportswear brand, achieving a successful exit in 2024 and I'm currently building my second business, <a href="https://myinscription.ai">Inscription</a>, a Vue web application and soon-to-be mobile app designed to allow entrepreneurs to seamlessly document their journeys and receive data & insights along the way.</p>
 
-<p>My goal is to leverage my combined technical and business expertise to develop and market innovative, user-focused solutions. Let’s connect if you’re interested in collaborating or exploring opportunities in software development, robotics, or AI-driven projects!</p>
+<p>My goal is to leverage my combined technical and business expertise to develop and market innovative, user-focused solutions. Let’s connect if you’re interested in collaborating or exploring opportunities in software development, robotics, or AI-driven projects.</p>
 
 <p>Reach out if our passions align and you want to chat: <strong>ber64111@gmail.com</strong></p>
 
