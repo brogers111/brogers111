@@ -6,13 +6,13 @@
 <h3 align="center">Building Apps & Solving Complex Problems With Code & Creativity</h3>
 
 <h2>About Me</h2>
-<p>I’m a full-stack developer and SEO specialist with 4 years of experience, a bachelor's degree in marketing, and a passion for creating impactful web applications and brands. I’m currently pursuing a BS in Robotics at MSU Denver, expanding my expertise into advanced manufacturing and automation.</p>
+<p>I’m a full-stack developer and SEO specialist with 4 years of experience, a bachelor's degree in marketing, and a passion for creating impactful web applications and brands. I’m currently pursuing a BS in Mechanical Engineering at MSU Denver, expanding my expertise in technology and innovation.</p>
 
 <p>Through my work at <a href="https://www.amsive.com/">Amsive</a>, I’ve led 20+ successful SEO campaigns, driving significant traffic and conversion growth for clients across finance, healthcare, senior living, and self-storage industries. My technical skills span HTML5, CSS3, JavaScript, React, Vue, Node.js, MongoDB, Postman, and Git/GitHub, which I’ve applied to real-world projects that you can view here on my GitHub.</p>
 
-<p>Previously, I bootstrapped <a href="https://lvlssportswear.com/">LVLS Sportswear</a>, a patented and innovative sportswear brand, achieving a successful exit in 2024 and I'm currently building my second business, <a href="https://myinscription.ai">Inscription</a>, a Vue web application and soon-to-be mobile app designed to allow entrepreneurs to seamlessly document their journeys and receive data & insights along the way.</p>
+<p>Previously, I bootstrapped <a href="https://lvlssportswear.com/">LVLS Sportswear</a>, a patented and innovative sportswear brand, achieving a successful exit in 2024 and I'm currently building my second business, <a href="https://myinscription.ai">Inscription</a>, a web and mobile app designed to allow entrepreneurs to seamlessly document their business journey while receiving data & insights along the way.</p>
 
-<p>My goal is to leverage my combined technical and business expertise to develop and market innovative, user-focused solutions. Let’s connect if you’re interested in collaborating or exploring opportunities in software development, robotics, or AI-driven projects.</p>
+<p>My goal is to leverage my combined technical and business expertise to develop and market innovative, user-focused solutions. Let’s connect if you’re interested in collaborating or exploring opportunities in software development, engineering/robotics, or AI-driven projects.</p>
 
 <p>Reach out if our passions align and you want to chat: <strong>ber64111@gmail.com</strong></p>
 
